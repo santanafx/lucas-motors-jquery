@@ -1,7 +1,7 @@
 # Sobre o projeto
 
 <p align="justify">
-O projeto teve como foco aprender a utilizar o jQuery, desenvolvendo uma página de loja de carros com formulário. Foram utilizados três plugins para aprimorar a experiência do usuário: o jQuery Validate para personalizar a validação do formulário, o jQuery Mask para inserir máscaras em campos de input, e o jQuery Slick para criar um carousel responsivo. O resultado permitiu adquirir habilidades no uso do jQuery e na manipulação do DOM, capacitando para futuros projetos mais sofisticados e eficientes.
+O projeto teve como foco aprender a utilizar o jQuery, desenvolvendo uma página de loja de carros com formulário. Foram utilizados três plugins para aprimorar a experiência do usuário: o jQuery Validate para personalizar a validação do formulário, o jQuery Mask para inserir máscaras em campos de input e o jQuery Slick para criar um carousel responsivo. O resultado permitiu adquirir habilidades no uso do jQuery e na manipulação do DOM, capacitando para futuros projetos mais sofisticados e eficientes.
 </p>
 
 ## Video do projeto
