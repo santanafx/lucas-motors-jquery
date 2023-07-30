@@ -35,7 +35,7 @@ Caso não tenha um terminal de preferência, recomendo utilizar o git bash. Para
 alt text: imagem mostrando várias caixas selecionáveis. A caixa “Git Bash Here” está em evidência por um quadrado vermelho com uma seta apontada para ele
 </p>
 
-<img align="center" src='./public/images/readme/instrucao-git.png'>
+<img align="center" src='./images/readme/instrucao-git.png'>
 
 Para verificar se o git foi instalado corretamente, abra o terminal e escreva git --version
 Visual Studio Code
@@ -46,26 +46,26 @@ Entre no link e baixe a versão de Windows.
 
 Clique com o botão direito em algum local do computador e selecione a opção Git Bash Here.
 
-<img align="center" src='./public/images/readme/instrucao-gitBashHere.png'>
+<img align="center" src='./images/readme/instrucao-gitBashHere.png'>
 
 Escreva no terminal o comando abaixo e no lugar de 'cole aqui' entre no projeto do GitHub e cole o link do projeto.
 
 git clone 'cole aqui o link do projeto'
 
-<img align="center" src='./public/images/readme/instrucao-clone.png'>
+<img align="center" src='./images/readme/instrucao-clone.png'>
 
-<img align="center" src='./public/images/readme/instrucao-gitClone.png'>
+<img align="center" src='./images/readme/instrucao-gitClone.png'>
 
 Uma pasta com o projeto desejado será adicionada a pasta em que foi escolhida.
 Clique com o botão direito em cima da pasta e selecione "Abrir com Code"
 
-<img align="center" src='./public/images/readme/instrucao-abrirCode.png'>
+<img align="center" src='./images/readme/instrucao-abrirCode.png'>
 
 Uma vez que o Visual studio estiver aberto com o projeto desejado, abra o terminal clicando no menu da aba superior e digite no terminal aberto o código "npm install" e logo em seguida digite "npm start". Uma janela do browser será aberta e o projeto será iniciado em seu computador.
 
-<img align="center" src='./public/images/readme/instrucao-terminal.png'>
+<img align="center" src='./images/readme/instrucao-terminal.png'>
 
-<img align="center" src='./public/images/readme/instrucao-npm.png'>
+<img align="center" src='./images/readme/instrucao-npm.png'>
 
 <br />
 
