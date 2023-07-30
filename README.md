@@ -25,7 +25,7 @@ Para verificar se foi instalado corretamente, abra o terminal e escreva node -v 
 alt text: site do Nodejs, com o botão da versão recomendada em foco por um quadrado vermelho!
 </p>
 
-<img align="center" src='./public/images/readme/instrucao-node.png'>
+<img align="center" src='./images/readme/instrucao-node.png'>
 
 Git
 <a href="https://git-scm.com/download/windows">Clique aqui para instalar o Git</a>.
