@@ -10,7 +10,7 @@ O projeto teve como foco aprender a utilizar o jQuery, desenvolvendo uma página
 
 ## Linguagens utilizadas
 
-HTML | JavaScript | CSS | Jquery
+HTML | JavaScript | CSS | JQuery
 
 ## Como instalar
 
